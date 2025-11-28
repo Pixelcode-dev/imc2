@@ -30,7 +30,7 @@ Totalmente livre para modificar e reutilizar.
 ###
 
 <h2>
-⚠️ OBS: BAIXE O ARQUIVO .ZIP PARA EXTRAÍ-LOS
+⚠️ OBS: BAIXE O ARQUIVO .ZIP PELO NAVEGADOR PARA EXTRAÍ-LOS
 </h2>
 
 PASTA: temas/temas.zip
