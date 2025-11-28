@@ -26,3 +26,11 @@ temas/
 
 ## 📜 Licença
 Totalmente livre para modificar e reutilizar.
+
+###
+
+<h2>
+⚠️ OBS: BAIXE O ARQUIVO .ZIP PARA EXTRAÍ-LOS
+</h2>
+
+PASTA: temas/temas.zip
